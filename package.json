@@ -1,0 +1,19 @@
+{
+  "name": "@hrax/now-globals",
+  "version": "0.1.0",
+  "description": "Global variables for different Service Now script scopes",
+  "license": "MIT",
+  "repository": "hrax/now-globals",
+  "author": {
+    "name": "Gregor Magdolen",
+		"url": "https://hrax.dev"
+	},
+  "engines": {
+    "node": ">=18"
+	},
+  "main": "index.js",
+  "files": [
+		"index.js",
+		"now-globals.json"
+	]
+}
