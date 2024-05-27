@@ -2,8 +2,17 @@
   "name": "@hrax/now-globals",
   "version": "0.1.0",
   "description": "Global variables for different Service Now script scopes",
+  "keywords": [
+    "service now globals",
+    "servicenow globals",
+    "now-globals"
+  ],
   "license": "MIT",
-  "repository": "hrax/now-globals",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hrax/now-globals.git"
+  },
+  "homepage": "https://github.com/hrax/now-globals",
   "author": {
     "name": "Gregor Magdolen",
 		"url": "https://hrax.dev"
